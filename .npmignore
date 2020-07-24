@@ -1,0 +1,10 @@
+.DS_Store 
+build
+dist
+docs
+src
+element-theme-dark
+.babelrc
+.eslintrc.js
+.gitignore
+.npmignore
